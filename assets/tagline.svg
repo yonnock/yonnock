@@ -39,7 +39,7 @@
 
 
       <text x="400" y="105" font-family="SF Mono, Fira Code, Cascadia Code, monospace" font-size="16" fill="#8b949e" text-anchor="middle" opacity="0">
-          yungweng
+          yonnock
           <animate attributeName="opacity" from="0" to="1" dur="1s" begin="2.6s" fill="freeze" />
       </text>
   </svg>
